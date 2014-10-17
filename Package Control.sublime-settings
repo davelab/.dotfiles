@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"jQuery",
+		"Sass",
+		"Seti_UI",
+		"SideBarEnhancements"
+	]
+}

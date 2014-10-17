@@ -1,0 +1,15 @@
+[user]
+	name = Davide Cariani
+	email = davidecariani7@gmail.com
+[github]
+	user = davelab
+[color]
+	ui = true
+[core]
+	editor = subl -n -w
+	autocrlf = input
+	safecrlf = true
+[merge]
+	tool = opendiff
+[push]
+	default = simple

@@ -1,0 +1,27 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Seti_UI/Seti.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_options": "subpixel_antialias",
+	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"tab_completion": false,
+	"tab_size": 4,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": false,
+	"word_wrap": true
+}
