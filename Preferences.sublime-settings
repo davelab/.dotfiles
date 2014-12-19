@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/Seti_UI/Seti.tmTheme",
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
 	"font_face": "Source Code Pro",
 	"font_options": "subpixel_antialias",
 	"font_size": 16,
